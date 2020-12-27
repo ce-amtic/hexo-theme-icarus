@@ -17,8 +17,8 @@ common:
     prev: '上一页'
     next: '下一页'
 widget:
-    follow: '关注我'
-    recents: '最新文章'
+    follow: '关于'
+    recents: '推荐阅读'
     links: '链接'
     catalogue: '目录'
     subscribe_email: '订阅更新'
